@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54f7171ae0136a5a",
+        "key": "FF_GAMING_0.6",
+        "expirydate": "26-10-2025",
+        "Allowoffline": false
     }
 ]
