@@ -288,7 +288,13 @@
         "Allowoffline": true
     },
     {
-        "device_id": "4921fa8eace84718",
+        "device_id": "f784d65443f646b0",
+        "key": "FF_GAMING_0.6",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "acbab462d2a3ee54",
         "key": "FF_GAMING_0.6",
         "expirydate": "31-12-2025",
         "Allowoffline": true
