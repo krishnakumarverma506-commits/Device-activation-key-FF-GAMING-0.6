@@ -83,4 +83,76 @@
         "expirydate": "27-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c58832cc9247507c",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a68jcp3906402272",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "90bbe61592e4c0b4",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "571f84191d23f6fb",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "af0db6d4754a1566",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "37dc1da31e9ac1cd",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "55e65725b7544844",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "eaa2f585ecbdefac",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "000ffd2451735860",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "90bbe61592e4c0b4",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f784d65443f646b0",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4a749d074937ceed",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
 ]
