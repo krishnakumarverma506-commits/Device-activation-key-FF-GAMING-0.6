@@ -16,5 +16,71 @@
         "key": "FF_GAMING_0.6",
         "expirydate": "27-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "ae54fa95c9b486fb",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "af0db6d4754a1566",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f784d65443f646b0",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ea25c2b396c0979e",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "54f7171ae0136a5a",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "eaa2f585ecbdefac",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c24fffe09290c9ce",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "14d88ee96caf4bec",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "14d88ee96caf4bec",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "571f84191d23f6fb",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "571f84191d23f6fb",
+        "key": "FF_GAMING_0.6_10day",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
+    },
 ]
