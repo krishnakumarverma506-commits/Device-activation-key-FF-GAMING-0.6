@@ -305,4 +305,10 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+    {
+        "device_id": "ca7f91da467e4297",
+        "key": "FF_GAMING_0.6",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
