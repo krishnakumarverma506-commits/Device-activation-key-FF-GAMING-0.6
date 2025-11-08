@@ -41,43 +41,6 @@
             }
         ],
         "expiry_enabled": true,
-        "expiry_date": "2049-01-01T00:00"
-    },
-     "dialog": {
-        "title": "MODE MENU EXPIRED ",
-        "message": "MODE MENU EXPIRED CLICK TO UPDATE ",
-        "download_button": {
-            "text": "Download Update",
-            "link": "https:\/\/t.me\/+Lk4tDwqUIvRkYTg1"
-        },
-        "FFMainActivityX": [
-            {
-                "enabled": false,
-                "text": "UPDATE NOW",
-                "link": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl"
-            },
-            {
-                "enabled": false,
-                "text": "Join Channel",
-                "link": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl"
-            },
-            {
-                "enabled": false,
-                "text": "Join Channel",
-                "link": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl"
-            },
-            {
-                "enabled": false,
-                "text": "Join Channel",
-                "link": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl"
-            },
-            {
-                "enabled": false,
-                "text": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl",
-                "link": "https:\/\/t.me\/+s9N2pYJrXbY1ZjJl"
-            }
-        ],
-        "exit_button": "Exit App",
-        "colors": null
+        "expiry_date": "2024-01-01T00:00"
     }
 }
