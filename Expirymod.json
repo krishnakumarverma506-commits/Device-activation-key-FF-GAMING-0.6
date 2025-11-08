@@ -41,6 +41,6 @@
             }
         ],
         "expiry_enabled": true,
-        "expiry_date": "2024-01-01T00:00"
+        "expiry_date": "2049-01-01T00:00"
     }
 }
