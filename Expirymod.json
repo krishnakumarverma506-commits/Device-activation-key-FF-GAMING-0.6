@@ -1,9 +1,46 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
-  "title": "UPDATE FF GAMING 0.6",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/P2077KNGVIP"
+    "success": true,
+    "expired": false,
+    "data": {
+        "analytics": {
+            "total_checks": 112284,
+            "last_check": "2025-11-08 12:35:17"
+        },
+        "dialog_title": "MODE MENU EXPIRED ",
+        "dialog_message": "PLEASE UPDATE YOUR MODE ",
+        "exit_button": "Exit App",
+        "download_button": {
+            "text": "Download Update",
+            "link": "https://t.me/P2077KNGVIP"
+        },
+        "FFMainActivityX": [
+            {
+                "enabled": false,
+                "text": "UPDATE ",
+                "link": "https://t.me/P2077KNGVIPOFFICIAL"
+            },
+            {
+                "enabled": false,
+                "text": "Join Channel",
+                "link": "https://t.me/raj_hacks"
+            },
+            {
+                "enabled": false,
+                "text": "Join Channel",
+                "link": "https://t.me/+LwxQEaJyEpc5OGNl"
+            },
+            {
+                "enabled": false,
+                "text": "Join Channel",
+                "link": "https://t.me/ffgaming_vip"
+            },
+            {
+                "enabled": false,
+                "text": "Join Channel",
+                "link": "https://t.me/p2077kngkey"
+            }
+        ],
+        "expiry_enabled": true,
+        "expiry_date": "2049-01-01T00:00"
+    }
 }
